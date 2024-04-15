@@ -12,7 +12,7 @@ export const Navbar = () =>{
         </button>
 
         <div className="collapse navbar-collapse"  id="navbarsExample03">
-            <ul className="navbar-nav me-auto mb-2 mb-sm-0">
+            <ul className="navbar-nav ms-auto mb-2 mb-sm-0">
             <li className="nav-item">
                 <a className="nav-link active" aria-current="page" href="#">Home</a>
             </li>
