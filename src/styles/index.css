@@ -6,12 +6,19 @@
   }
   
   .jumbotron {
-    max-width: 600px;
+    width: auto;
     padding: 20px;
     margin-left: 35%;
+    margin-right: 35%;
     margin-top: 20px;
     margin-bottom: 20px;
     background-color: #f8f9fa;
     border-radius: 10px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
   }
+
+  .cards{
+    margin-left: 12%;
+    margin-top: 20px;
+  }
+  
