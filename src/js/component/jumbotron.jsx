@@ -32,4 +32,4 @@ Jumbotron.defaultProps = {
     buttonLabel: "Default Button Label",
 };
 
-ReactDOM.render(<Jumbotron />, document.querySelector("#app"));
+export default Jumbotron;
