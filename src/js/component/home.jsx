@@ -29,7 +29,7 @@ const Home = () => {
 				</div>
 			</div>
 			<p className="mt-3">
-				Made by Mary, Marco & Alejandro
+				Made by Mery, Marco & Alejandro
 				with
 				love!
 			</p>
